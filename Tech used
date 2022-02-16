@@ -1,0 +1,10 @@
+Techniques Used:
+Regression Analysis is a statistical process for estimating the relationships
+between the dependent variables or criterion variables and one or more
+independent variables or predictors. Regression analysis explains the changes in
+criteria in relation to changes in select predictors. The conditional expectation of
+the criterions based on predictors where the average value of the dependent
+variables is given when the independent variables are changed.
+A regression problem is when the output variable is a real or continuous value,
+such as “salary” or “weight” or “marks”, it tries to fit the data with the best
+hyperplane which goes through the points.
